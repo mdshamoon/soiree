@@ -1,6 +1,6 @@
 $(document).ready(function()
 {
-$('#post').attr('enctype','multipart/form-data');
+/*$('#post').attr('enctype','multipart/form-data');*/
 
 
 	$('#click').on('click',function()
